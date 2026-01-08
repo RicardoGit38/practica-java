@@ -8,3 +8,7 @@ soy ricardo
 
 
  este cambio es de mi otra rama1
+
+
+
+ // Este cambio se unirá mediante Pull Request //
