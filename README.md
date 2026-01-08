@@ -4,6 +4,7 @@ Este es mi primer repositorio oficial para aprender a controlar versiones.
 Aquí subiré mis ejercicios de clase.
 
 soy ricardo
+
  nuevo cambio
 
 
@@ -12,3 +13,5 @@ soy ricardo
 
 
  // Este cambio se unirá mediante Pull Request //
+
+ nuevo cambio numero 23
