@@ -5,3 +5,6 @@ Aquí subiré mis ejercicios de clase.
 
 soy ricardo
  nuevo cambio
+
+
+ este cambio es de mi otra rama1
